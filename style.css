@@ -1,0 +1,42 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-image: url(https://www.shutterstock.com/search/butterfly-jpg);
+    background-size: cover;
+}
+article{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: salmon;
+    background-color: silver;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+}
+footer{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.aside{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 10px;
+}
