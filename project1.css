@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(34, 35, 36);
+
+}
+header h1{
+    color: rgb(254, 254, 254);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.1rem;
+}
+main h1{
+    font-size: 4rem;
+    color: rgb(254, 254, 254);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 10px;
+    justify-content: center;
+    text-align: center;
+}
+main p{
+    color: rgb(254, 254, 254);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.sec{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-left: 10px;
+}
+footer{
+    justify-content: center;
+    text-align: center;
+    color: rgb(254, 254, 254);
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    font-size: 1rem;
+    margin-top: 70px;
+}
+section h1{
+    color: rgb(254, 254, 254);
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    font-size: 5rem;
+}
+section h2{
+    color: rgb(254, 254, 254);
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    font-size: 1rem;
+}
+.sec .one{
+    background-color: rgb(34, 35, 36);
+    padding: 20px;
+}
+.sec .one h2{
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
+.sec .two{
+    background-color: rgb(34, 35, 36);
+    padding: 20px;
+}
+.sec .two h2{
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
+.sec .three{
+    background-color: rgb(34, 35, 36);
+    padding: 20px;
+}
+.sec .three h2{
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
